@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np 
  
-input_image = cv2.imread('1591171262251.JPEG') 
+input_image = cv2.imread('./images/1591171262251.JPEG') 
 gray_image = cv2.cvtColor(input_image, cv2.COLOR_BGR2GRAY) 
  
 # Initiate ORB object
