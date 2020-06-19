@@ -1,1 +1,1 @@
-# Detector-Using-OpenCV
+# Detectors-Using-OpenCV
